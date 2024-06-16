@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LazyCat-BDA
-- 👀 I’m interested in application developement. Touched on various programming languages from Microsoft VBA to very light C# and Web page creation.
-  Spent most of my time as a Data Analysis concentrating on Business Intelligence - Reporting and Data Warehousing.
-- 🌱 I’m currently learning iOS and XAML development.
+- 👋 Hi, I’m Maurice Bailey of Lazy Cat Development
+- 👀 I have worked in various industries from Hospitalty to Banking/Finance. Current specialty is Business Intelligence Reporting using Oracle Business Intelligence Enterprise and Microsoft SQL Server.
+- Over the years, have developed application using Microsoft Office VBA (Excel and Access). Currently ugrading skills to include Web and Mobile Development.
 - 📫 How to reach me at lazykatdevelopment@outlook.com
 - Would like to collaborate build my netowork as well as imporve my programming skills.
 
